@@ -63,21 +63,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="insertionsort.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/insertionsort.php">
+      <file leaf-file-name="bubblesort.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bubblesort.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3220859" vertical-offset="0" max-vertical-offset="690">
-              <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="selectionsort.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/selectionsort.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="735">
-              <caret line="11" column="135" selection-start-line="11" selection-start-column="135" selection-end-line="11" selection-end-column="135" />
+            <state vertical-scroll-proportion="0.75" vertical-offset="285" max-vertical-offset="750">
+              <caret line="40" column="90" selection-start-line="40" selection-start-column="90" selection-end-line="40" selection-end-column="90" />
               <folding />
             </state>
           </provider>
@@ -115,6 +105,7 @@
         <option value="$PROJECT_DIR$/sortingalgorithm.php" />
         <option value="$PROJECT_DIR$/selectionsort.php" />
         <option value="$PROJECT_DIR$/insertionsort.php" />
+        <option value="$PROJECT_DIR$/bubblesort.php" />
       </list>
     </option>
   </component>
@@ -193,17 +184,7 @@
       <recent name="$PROJECT_DIR$/htmlwithphp" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.insertionsort.php">
-    <configuration default="false" name="checkerboard.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:80/checkerboard.php">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="index.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:80/htmlwithphp/index.php">
-      <RunnerSettings RunnerId="JavascriptDebugRunner" />
-      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.bubblesort.php">
     <configuration default="false" name="sortingalgorithm.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:80/sortingalgorithm.php">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
@@ -217,6 +198,16 @@
     <configuration default="false" name="insertionsort.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:80/insertionsort.php">
       <RunnerSettings RunnerId="JavascriptDebugRunner" />
       <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="bubblesort.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:80/bubblesort.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="bubblesort.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/bubblesort.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -263,19 +254,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.checkerboard.php" />
-      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sortingalgorithm.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.insertionsort.php" />
-      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.insertionsort.php" />
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.sortingalgorithm.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Script.insertionsort.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.insertionsort.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.bubblesort.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.bubblesort.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.insertionsort.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.insertionsort.php" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.sortingalgorithm.php" />
-        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.php" />
-        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.checkerboard.php" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.bubblesort.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.bubblesort.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.insertionsort.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.insertionsort.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.sortingalgorithm.php" />
       </list>
     </recent_temporary>
   </component>
@@ -324,7 +315,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26895565" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32954547" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -585,7 +576,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/selectionsort.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="735">
+        <state vertical-scroll-proportion="0.2530675" vertical-offset="0" max-vertical-offset="735">
           <caret line="11" column="135" selection-start-line="11" selection-start-column="135" selection-end-line="11" selection-end-column="135" />
           <folding />
         </state>
@@ -595,6 +586,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3220859" vertical-offset="0" max-vertical-offset="690">
           <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bubblesort.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.75" vertical-offset="285" max-vertical-offset="750">
+          <caret line="40" column="90" selection-start-line="40" selection-start-column="90" selection-end-line="40" selection-end-column="90" />
           <folding />
         </state>
       </provider>
